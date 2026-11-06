@@ -1,0 +1,14 @@
+{
+  "name": "api-vehiculos-pa3",
+  "version": "1.0.0",
+  "description": "API REST propia para la PA3 (vehiculos): login con JWT y CRUD",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2"
+  }
+}

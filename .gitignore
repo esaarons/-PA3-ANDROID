@@ -1,0 +1,25 @@
+# Android Studio
+.idea/
+*.iml
+.gradle/
+.gradle-cache/
+
+# Build
+**/build/
+*.apk
+*.aab
+
+# Local configuration
+local.properties
+.env
+.env.*
+*.jks
+*.keystore
+
+# Node.js
+node_modules/
+npm-debug.log*
+
+# Operating system
+.DS_Store
+Thumbs.db
